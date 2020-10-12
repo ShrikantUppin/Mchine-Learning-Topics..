@@ -2,8 +2,8 @@
 
 What are the Different algorithms used in Machine Learning?
 * Supervised Learning
-Linear Regression
-Logistic Regression
+   1. Linear Regression
+   2. Logistic Regression
 k-nearest neighbors
 Decision Trees
 Random Forest
