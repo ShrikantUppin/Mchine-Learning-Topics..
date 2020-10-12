@@ -1,5 +1,3 @@
-# Topics-in-Machine-learning
-
 ## Supervised Learning
    * Linear Regression
    * Logistic Regression
@@ -10,8 +8,7 @@
    * XGBoost
    * Support Vector Machines (SVM)
    * Neural Networks
-***
-
+   
 ## Unsupervised Learning
    * k means clustering
    * Hierarchical clustering
