@@ -1,7 +1,6 @@
 # Topics-in-Machine-learning
 
-What are the Different algorithms used in Machine Learning?
-* Supervised Learning
+## * Supervised Learning
    1. Linear Regression
    2. Logistic Regression
 k-nearest neighbors
